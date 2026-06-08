@@ -1,6 +1,6 @@
 # Spencer Lee
 
-Senior engineer at [Waypoint Network](https://waypointnetwork.ai). I build systems that sit between messy real-world data and trustworthy automated action — agent orchestration, verifier-driven reliability loops, structured intelligence pipelines, and the product architectures underneath them.
+VP of Technology at [Waypoint Network](https://waypointnetwork.ai), CTO at [Resin8](https://resin8.ai). I build systems that sit between messy real-world data and trustworthy automated action — agent orchestration, verifier-driven reliability loops, structured intelligence pipelines, and the product architectures underneath them.
 
 Most of my current work is private. The pinned repos below are side projects and earlier prototypes. For samples of the production work, see the gists below.
 
